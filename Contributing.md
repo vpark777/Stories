@@ -9,7 +9,7 @@ This repository contains folders for different grade levels. Each folder holds a
 1. **Fork the repository**  
    Click the "Fork" button at the top right of this page.
 
-2. **Clone your forked repo** 
+2. **Clone your forked repo** <br>
 git clone https://github.com/vpark777/Stories.git <br>
 cd Stories
 
