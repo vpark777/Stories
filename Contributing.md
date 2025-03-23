@@ -28,7 +28,7 @@ Example: `Grade4/`
 5. **Commit your change**
 ```bash
 git add Grade2/The_Big_Tree.md
-git commit -m "Add 'The Big Tree' story for Grade 2"
+git commit -m "Add 'The Big Tree' story for Grade 4"
 git push origin main
 ```
 6.	Open a pull request <br>
