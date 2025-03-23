@@ -2,7 +2,9 @@
 
 Thanks for your interest in contributing!
 
-This repository contains folders for different grade levels. Each folder holds age-appropriate stories. You can contribute a story by creating a **pull request (PR)**.
+This repository contains folders for different grade levels. Each folder holds age-appropriate stories. You can contribute a story by creating a **pull request (PR)**.<br>
+You will need a Github account. Here is a link on how to open one. https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github
+
 
 ## ✍️ How to Contribute a Story
 
