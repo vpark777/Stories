@@ -30,6 +30,6 @@ Example: `Grade4/`
 git add Grade2/The_Big_Tree.md
 git commit -m "Add 'The Big Tree' story for Grade 2"
 git push origin main
-
+```
 6.	Open a pull request
 Go back to your fork on GitHub and click “Compare & pull request”. Describe what you added, and submit!
