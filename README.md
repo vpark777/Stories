@@ -9,8 +9,8 @@ I’m not a reading expert, but I’ve read the work of those who are. And I bel
 
 	We don’t have to be perfect to be helpful.
 
-To address that, I’m starting with non-fiction passages by grade level, written in accessible, engaging ways. These passages will cover important topics like:
-How the U.S. government works <br>
+To address that, I’m starting with non-fiction passages by grade level, written in accessible, engaging ways. These passages will cover important topics like:<br>
+- How the U.S. government works 
 - Basic scientific principles
 - Global cultures and geography
 - Human psychology and behavior
