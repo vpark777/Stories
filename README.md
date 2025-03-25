@@ -1,14 +1,39 @@
 # Stories
-Stories by grade levels
+## Stories by grade levels
 
-My intention is to upload stories by grade level from 4-12 categorized by Non-Fiction and Fiction. I wanted to focus from grade 4 up becausee there is a lot of material out there for younger kids who need foundation in phonics and very rudimentary skills in reading. But beyond the very basics, I've seen a lot of students get further and further behind their peers in reading comprehension. I don't proclaim to be a reading expert but I will share research done by experts.
-We don't have to be perfect to be helpful. 
+My goal is to create and share a collection of stories for students in grades 4–12, categorized by Non-Fiction and Fiction.
 
-I will start by focusing on Non-Fiction. One of the big issues that I've seen with a lot of children who struggle with reading comprehension is that they end up very behind in general knowledge which hinders their participation with their peers and in society. I will be heavily utilizing ChatGPT and other LLM's to generate passage by grade levels. As of now, 3.24.25, LLMs are not great at generating fiction.
+I’m intentionally starting at grade 4 because there’s already a wealth of materials for younger children focused on phonics and foundational reading skills. But as kids get older, many who struggle with reading comprehension fall further and further behind, not just in reading, but in general knowledge, which limits their ability to engage with peers and the world around them.
 
-So my intention is to make this a group project enlisting help of aspiring writers of all ages. I will post an ambitious video on how git works. ( I have working knowledge of it as an iOS developer )
+I’m not a reading expert, but I’ve read the work of those who are. And I believe this:
 
-Here are some topics I found from speaking with ChatGPT on topics children from grades 4-12 should be familiar with.
+	We don’t have to be perfect to be helpful.
+
+To address that, I’m starting with non-fiction passages by grade level, written in accessible, engaging ways. These passages will cover important topics like:
+How the U.S. government works <br>
+- Basic scientific principles
+- Global cultures and geography
+- Human psychology and behavior
+- Climate change and the environment
+- Media literacy and social influence
+- Ethics, power, and decision-making
+
+I’ll be using tools like ChatGPT and other large language models to help generate and refine these texts. As of March 24, 2025, LLMs are still not great at writing compelling fiction for kids—but they’re a great starting point for informative and age-appropriate non-fiction.
+
+## Fiction as a Community Project
+
+Once the non-fiction library is underway, I plan to expand into fiction—with help. Writing truly engaging stories for different age levels is an art, and I’d love to make this part of the project collaborative.
+
+Whether you’re an aspiring writer, a teacher, a parent, or a student, your voice matters. This will be an open invitation to co-create meaningful fiction that connects emotionally and intellectually with kids at different ages.
+
+## Sharing & Versioning
+
+To keep everything transparent and open-source, I’ll also share how we organize and version this project using Git. (I have working knowledge from my background as an iOS developer and will create a video to walk beginners through it.)
+
+## What Kids Should Know: A Starting Point
+
+Below is a list of general knowledge topics I generated in conversation with ChatGPT, based on what kids from grades 4–12 should ideally learn to become informed, thoughtful, and capable citizens.
+
 
 Grade 4–5 (Ages 9–11)
 
