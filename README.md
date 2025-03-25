@@ -38,68 +38,68 @@ Below is a list of general knowledge topics I generated in conversation with Cha
 Grade 4–5 (Ages 9–11)
 
 Science
-	•	Basic ecosystems and food chains
-	•	The solar system and Earth’s place in it
-	•	States of matter (solid, liquid, gas)
-	•	Simple machines and forces (push/pull)
-	•	Human body systems (skeletal, digestive)
+- Basic ecosystems and food chains
+- The solar system and Earth’s place in it
+- States of matter (solid, liquid, gas)
+- Simple machines and forces (push/pull)
+- Human body systems (skeletal, digestive)
 
 Politics & Society
-	•	What rules and laws are, and why we have them
-	•	Local community roles (mayor, police, teachers)
-	•	Basic rights and responsibilities (e.g. kindness, fairness)
-	•	Introduction to U.S. founding ideals: freedom, equality
+- What rules and laws are, and why we have them
+- Local community roles (mayor, police, teachers)
+- Basic rights and responsibilities (e.g. kindness, fairness)
+- Introduction to U.S. founding ideals: freedom, equality
 
 Human Nature
-	•	Empathy and perspective-taking
-	•	Conflict resolution and sharing
-	•	The idea that people have different experiences and backgrounds
-	•	Awareness of emotions and self-regulation
+- Empathy and perspective-taking
+- Conflict resolution and sharing
+- The idea that people have different experiences and backgrounds
+- Awareness of emotions and self-regulation
 
 Grade 8–9 (Ages 13–15)
 
 Science
-	•	Genetics and evolution
-	•	Newton’s Laws of Motion
-	•	The periodic table
-	•	Ecosystems, biodiversity, and environmental science
-	•	Scientific literacy: evaluating claims (what’s pseudoscience?)
+- Genetics and evolution
+- Newton’s Laws of Motion
+- The periodic table
+- Ecosystems, biodiversity, and environmental science
+- Scientific literacy: evaluating claims (what’s pseudoscience?)
 
 Politics & Society
-	•	How laws are made
-	•	The role of media and propaganda
-	•	Understanding democracy, authoritarianism, and theocracy
-	•	Global interdependence (e.g. trade, climate, refugees)
-	•	Social class and economic inequality basics
+- How laws are made
+- The role of media and propaganda
+- Understanding democracy, authoritarianism, and theocracy
+- Global interdependence (e.g. trade, climate, refugees)
+- Social class and economic inequality basics
 
 Human Nature
-	•	Logical fallacies and argumentation
-	•	Moral dilemmas and ethical reasoning
-	•	Power dynamics (in school, family, government)
-	•	Social conformity and independent thinking
+- Logical fallacies and argumentation
+- Moral dilemmas and ethical reasoning
+- Power dynamics (in school, family, government)
+- Social conformity and independent thinking
 
 Grade 10–11 (Ages 15–17)
 
 Science
-	•	Chemistry: bonding, reactions, stoichiometry
-	•	Physics: energy, waves, electricity
-	•	Biology: systems, reproduction, ecology, brain basics
-	•	Climate science and sustainability
-	•	How science interacts with society (e.g. vaccines, AI, climate)
+- Chemistry: bonding, reactions, stoichiometry
+- Physics: energy, waves, electricity
+- Biology: systems, reproduction, ecology, brain basics
+- Climate science and sustainability
+- How science interacts with society (e.g. vaccines, AI, climate)
 
 Politics & Society
-	•	Political ideologies (liberalism, conservatism, socialism, etc.)
-	•	The electoral system, voting, and gerrymandering
-	•	Civil liberties vs. national security
-	•	Justice system: laws, courts, incarceration
-	•	History of colonialism, imperialism, and their legacy
+- Political ideologies (liberalism, conservatism, socialism, etc.)
+- The electoral system, voting, and gerrymandering
+- Civil liberties vs. national security
+- Justice system: laws, courts, incarceration
+- History of colonialism, imperialism, and their legacy
 
 Human Nature
-	•	Psychology basics (cognitive dissonance, unconscious bias)
-	•	The role of trauma and resilience
-	•	How humans make decisions (heuristics, emotion vs. reason)
-	•	Social influence, media manipulation
-	•	Identity: race, gender, orientation, disability
+- Psychology basics (cognitive dissonance, unconscious bias)
+- The role of trauma and resilience
+- How humans make decisions (heuristics, emotion vs. reason)
+- Social influence, media manipulation
+- Identity: race, gender, orientation, disability
 
 Grade 12 (Age 17–18)
 
