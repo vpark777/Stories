@@ -104,24 +104,24 @@ Human Nature
 Grade 12 (Age 17–18)
 
 Science
-	•	Scientific ethics (CRISPR, AI, bioengineering)
-	•	Climate crisis and sustainable solutions
-	•	Health literacy (nutrition, reproductive health, mental health)
-	•	Understanding data and statistics (to interpret studies, polls)
-	•	Tech literacy (privacy, AI, misinformation)
+- Scientific ethics (CRISPR, AI, bioengineering)
+- Climate crisis and sustainable solutions
+- Health literacy (nutrition, reproductive health, mental health)
+- Understanding data and statistics (to interpret studies, polls)
+- Tech literacy (privacy, AI, misinformation)
 
 Politics & Society
-	•	How to vote and research candidates
-	•	Understanding taxes, credit, and loans
-	•	Systemic inequality and institutional change
-	•	How change happens (activism, policy, entrepreneurship)
-	•	Role of international bodies (UN, WTO, WHO)
+- How to vote and research candidates
+- Understanding taxes, credit, and loans
+- Systemic inequality and institutional change
+- How change happens (activism, policy, entrepreneurship)
+- Role of international bodies (UN, WTO, WHO)
 
 Human Nature
-	•	Moral philosophy (utilitarianism, deontology, virtue ethics)
-	•	Navigating pluralism and disagreement
-	•	How power is maintained and challenged
-	•	Cultivating purpose and meaning
-	•	Compassionate skepticism — questioning while staying open
+- Moral philosophy (utilitarianism, deontology, virtue ethics)
+- Navigating pluralism and disagreement
+- How power is maintained and challenged
+- Cultivating purpose and meaning
+- Compassionate skepticism — questioning while staying open
 
-Any thoughts? Maybe human nature is overreaching.
+Any thoughts? Maybe human nature is overreaching. This is definitely a broad sketch, I will adjust as I go. 
